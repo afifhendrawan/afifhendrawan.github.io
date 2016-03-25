@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: M Afif Hendrawan
+      title: Catatan Pinggir
 
 description: Sebuah Catatan Samping
 author:
