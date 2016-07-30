@@ -3,7 +3,7 @@ title: 4 Langkah Setup VPN di OSX
 categories: [Tech]
 tags: [tech, osx]
 comments: true
-description: Setup VPN pada OSX Menggunakan Akun Gratis dari [fastssh](https://www.fastssh.com/)
+description: Setup VPN pada OSX Menggunakan Akun Gratis dari Fastssh
 date: 2016-07-28T15:38:47+07:00
 ---
 ### Intro
