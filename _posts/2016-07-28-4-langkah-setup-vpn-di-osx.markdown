@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 4 Langkah Setup VPN di OSX
 categories: [Tech]
 tags: [tech, osx]
