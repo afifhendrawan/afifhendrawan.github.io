@@ -7,14 +7,15 @@ comments: true
 description: Setup VPN pada OSX Menggunakan Akun Gratis dari Fastssh
 date: 2016-07-28T15:38:47+07:00
 ---
-[ss1] : media/ss1.png "SS1"
-[ss2] : media/ss3.png "SS2"
-[ss3] : media/ss2.png "SS3"
+[ss1]: /media/ss1.png "SS1"
+[ss2]: /media/ss3.png "SS2"
+[ss3]: /media/ss2.png "SS3"
 
 ### Intro
 Berangkat dari kebutuhan untuk menggunakan ***Virtual Private Network*** (VPN) pada OSX, saya mencoba untuk menerapkan konfigurasi VPN menggunakan tool SoftEther (yang biasa saya gunakan pada Windows) pada OSX dengan menggunakan layanan yang sama dari [fastssh](https://wwww.fastssh.com). Meskipun SoftEther mengdukung penggunaan pada OSX, berdasarkan laman fastssh, pada OSX tidak dianjurkan menggunakan SoftEther. Oleh karena itu saya mencoba untuk melakukan konfigurasi VPN secara manual. Jangan khawatif, setup akan memakan waktu sangat cepat ! ^^
 
 ### Let's Go !
+
 #### Part 1 - Membuat Akun VPN
 1. Masuk ke laman [fastssh](https://wwww.fastssh.com).
 2. Pada menu pilih **SoftEther**.
