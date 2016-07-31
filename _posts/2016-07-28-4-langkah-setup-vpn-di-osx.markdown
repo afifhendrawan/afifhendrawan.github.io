@@ -28,20 +28,14 @@ Jika tidak ada yang terlewat, maka pembuatan akun VPN dari fastssh telah selesai
 #### Part 2 - Setup VPN
 1. Masuk ke **Network Preferences**
 2. Klik tanda "**+**" pada bagian daftar network interface (kiri).
-3. Pilih interface **VPN** dengan VPN Type **L2TP Over IPSec**, nama service bebas ^^. OK
-
-. . . aaaaaaaa
-![alt text][ss1]
-
+3. Pilih interface **VPN** dengan VPN Type **L2TP Over IPSec**, nama service bebas ^^. OK.
 4. Pilih **Authentication Settings** masukkan password dan **Shared Secret** (IPSec Pre-Shared Key) yang telah dicatat sebelunnya. OK.
-
-. . . ![alt text][ss2]
-
 5. Terakhir masukkan **Host IP** dan username yang telah dibuat. Username harus memiliki prefix **fastssh.com-username**.
-
-. . . ![alt text][ss3]
-
 6. Klik Connect.
+
+![alt text][ss1]
+![alt text][ss2]
+![alt text][ss3]
 
 ### Conclusion
 Setup VPN secara manual pada OSX lebih mudah karena semua kebutuhan yang diberikan telah disediakan. Penggunaan layanan dari fastshh juga sangat mumpuni, meski memiliki keterbatasan waktu dan jumlah. Dalam kasus disini, saya menggunakan VPN SG LW 1 yang oleh fastssh dibatasi hanya 15 akun gratis dalam satu hari, dan akun akan expired dalam 2 x 24 jam. Fastssh juga dapat menjadi solusi yang **sangat murah** untuk sejenak keluar dari ***pagar***. Untuk penggunaan pada environment Windows, kita hanya perlu menggunakan tool SoftEther dan mengikut petunjuk yang sudah diberikan oleh fastssh.
