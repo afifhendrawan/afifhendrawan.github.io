@@ -29,8 +29,17 @@ Jika tidak ada yang terlewat, maka pembuatan akun VPN dari fastssh telah selesai
 1. Masuk ke **Network Preferences**
 2. Klik tanda "**+**" pada bagian daftar network interface (kiri).
 3. Pilih interface **VPN** dengan VPN Type **L2TP Over IPSec**, nama service bebas ^^. OK
+
+. . .![alt text][ss1]
+
 4. Pilih **Authentication Settings** masukkan password dan **Shared Secret** (IPSec Pre-Shared Key) yang telah dicatat sebelunnya. OK.
+
+. . .![alt text][ss2]
+
 5. Terakhir masukkan **Host IP** dan username yang telah dibuat. Username harus memiliki prefix **fastssh.com-username**.
+
+. . .![alt text][ss3]
+
 6. Klik Connect.
 
 ### Conclusion
