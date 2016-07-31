@@ -34,8 +34,8 @@ Jika tidak ada yang terlewat, maka pembuatan akun VPN dari fastssh telah selesai
 6. Klik Connect.
 
 ![alt text][ss1]
-![alt text][ss2]
 ![alt text][ss3]
+![alt text][ss2]
 
 ### Conclusion
 Setup VPN secara manual pada OSX lebih mudah karena semua kebutuhan yang diberikan telah disediakan. Penggunaan layanan dari fastshh juga sangat mumpuni, meski memiliki keterbatasan waktu dan jumlah. Dalam kasus disini, saya menggunakan VPN SG LW 1 yang oleh fastssh dibatasi hanya 15 akun gratis dalam satu hari, dan akun akan expired dalam 2 x 24 jam. Fastssh juga dapat menjadi solusi yang **sangat murah** untuk sejenak keluar dari ***pagar***. Untuk penggunaan pada environment Windows, kita hanya perlu menggunakan tool SoftEther dan mengikut petunjuk yang sudah diberikan oleh fastssh.
