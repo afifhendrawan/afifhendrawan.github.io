@@ -4,7 +4,7 @@ title: The Edmodo Guides for Teachers
 categories: [education]
 tags: [edu, edmodo, elearning]
 comments: true
-description: A simple guide yet complete to Edmodo for teachers.
+description: A simple yet complete guide to Edmodo for teachers.
 date: 2016-08-17T12:29:42+07:00
 ---
 
