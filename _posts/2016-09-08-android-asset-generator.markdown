@@ -11,7 +11,7 @@ date: 2016-09-08T17:23:35+07:00
 
 Project iseng yang saya buat karena terinspirasi dari project aset generator untuk android bernama [Fred](https://github.com/leocadiotine/fred) di Github. Alasan pertama pembuatan project Android Asset Generator ini karena saya merasa kesulitan dan agak kurang fleksibel menggunakan tool yang sebenarnya lebih powerfull, yaitu aset generator buatan [Ruman Nurik](https://romannurik.github.io/AndroidAssetStudio/). Selain karena harus online, kedua kadang saya suka menyalahi pakem design Android. Alasan kedua, tool yang biasa saya pakai selain dari [Ruman Nurik](https://romannurik.github.io/AndroidAssetStudio/) yaitu [Fred](https://github.com/leocadiotine/fred) juga kurang fleksibel dengan menjadikan ukuran xxxhdpi sebagai ukuran patokan aset. Sebenarnya project ini ingin mencoba melanjutkan apa yang telah dikerjakan oleh [leocadiotine](https://github.com/leocadiotine) pada Fred dengan menambahkan opsi untuk pemilihan ukuran dasar sebagai patokan. Namun karena ditulis menggunakan *clojure* yang tidak saya tahu, maka saya putuskan untuk membuat Android Asset Generator dengan menggunakan Java.
 
-![alt text][screen-destinies]
+![alt text][screens-destinies]
 
 Perhitungan penyekalaan Android Asset Generator sudah mengikuti aturan standar design aset dari [Android](https://developer.android.com/guide/practices/screens_support.html) yaitu,
 
@@ -41,5 +41,5 @@ Untuk yang ingin melanjutkan atau sekedar ingin tahu tentang project sederhana i
 ### Lisensi
 **Apache License Version 2.0**
 
-[screen-destinies]: /assets/media/screen-destinies.png "Screen Destinies"
+[screens-destinies]: /assets/media/screens-destinies.png "Screen Destinies"
 [AndroidAssetGenerator]: /assets/media/AndroidAssetGenerator.png "Android Asset Generator"
